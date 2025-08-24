@@ -273,3 +273,7 @@ combos:
   k: {t: '$$mdi:backspace$$', type: backspace}
 - p: [57, 59]
   k: layer1
+- p: [10, 11]
+  k: {t: '-', s: _}
+- p: [11, 12]
+  k: {t: '=', s: +}

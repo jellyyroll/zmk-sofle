@@ -676,6 +676,16 @@ rect.held, rect.combo.held {
 <a href="#layer1">
 <text x="462" y="294" class="combo tap layer-activator">layer1</text>
 </a></g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
+<text x="812" y="46" class="combo tap">-</text>
+<text x="812" y="35" class="combo shifted">_</text>
+</g>
+<g class="combo combopos-7">
+<rect rx="6" ry="6" x="854" y="43" width="28" height="26" class="combo"/>
+<text x="868" y="56" class="combo tap">=</text>
+<text x="868" y="45" class="combo shifted">+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-layer1">
@@ -1061,6 +1071,16 @@ rect.held, rect.combo.held {
 <a href="#layer1">
 <text x="462" y="294" class="combo tap layer-activator">layer1</text>
 </a></g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
+<text x="812" y="46" class="combo tap">-</text>
+<text x="812" y="35" class="combo shifted">_</text>
+</g>
+<g class="combo combopos-7">
+<rect rx="6" ry="6" x="854" y="43" width="28" height="26" class="combo"/>
+<text x="868" y="56" class="combo tap">=</text>
+<text x="868" y="45" class="combo shifted">+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-2">
@@ -1436,6 +1456,16 @@ rect.held, rect.combo.held {
 <a href="#layer1">
 <text x="462" y="294" class="combo tap layer-activator">layer1</text>
 </a></g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
+<text x="812" y="46" class="combo tap">-</text>
+<text x="812" y="35" class="combo shifted">_</text>
+</g>
+<g class="combo combopos-7">
+<rect rx="6" ry="6" x="854" y="43" width="28" height="26" class="combo"/>
+<text x="868" y="56" class="combo tap">=</text>
+<text x="868" y="45" class="combo shifted">+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1165)" class="layer-3">
@@ -1793,6 +1823,16 @@ rect.held, rect.combo.held {
 <a href="#layer1">
 <text x="462" y="294" class="combo tap layer-activator">layer1</text>
 </a></g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
+<text x="812" y="46" class="combo tap">-</text>
+<text x="812" y="35" class="combo shifted">_</text>
+</g>
+<g class="combo combopos-7">
+<rect rx="6" ry="6" x="854" y="43" width="28" height="26" class="combo"/>
+<text x="868" y="56" class="combo tap">=</text>
+<text x="868" y="45" class="combo shifted">+</text>
+</g>
 </g>
 </g>
 </svg>
