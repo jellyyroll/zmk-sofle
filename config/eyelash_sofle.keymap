@@ -64,6 +64,18 @@
     };
 
     behaviors {
+        nav_word: nav_word {
+            compatible = "zmk,behavior-auto-layer";
+            #binding-cells = <0>;
+            layers = <1>;   // or <NAV> if you’ve defined a NAV constant
+            continue-list = <
+                &kp LEFT
+                &kp DOWN
+                &kp RIGHT
+                &kp UP
+            >;
+            ignore-modifiers;
+        };
     };
 
     combos {
