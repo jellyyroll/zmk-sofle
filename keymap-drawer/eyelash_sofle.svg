@@ -624,9 +624,8 @@ rect.held, rect.combo.held {
 <g transform="translate(535, 294) rotate(-30.0)" class="key keypos-59">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#layer1">
-<text x="0" y="-4" class="key tap layer-activator">layer1</text>
-</a></g>
+<text x="0" y="-4" class="key tap"><tspan style="font-size: 67%">&amp;nav_word</tspan></text>
+</g>
 <g transform="translate(610, 283) rotate(-30.0)" class="key keypos-60">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
@@ -670,6 +669,13 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="686" y="74" width="28" height="26" class="combo backspace"/>
 <use href="#mdi:backspace" xlink:href="#mdi:backspace" x="691" y="78" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
+<g class="combo combopos-5">
+<path d="M462,294 l-54,0" class="combo"/>
+<path d="M462,294 l54,0" class="combo"/>
+<rect rx="6" ry="6" x="448" y="281" width="28" height="26" class="combo"/>
+<a href="#layer1">
+<text x="462" y="294" class="combo tap layer-activator">layer1</text>
+</a></g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-layer1">
@@ -992,10 +998,9 @@ rect.held, rect.combo.held {
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
-<g transform="translate(389, 294) rotate(30.0)" class="key trans keypos-57">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
-<rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key trans"/>
-<use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
+<g transform="translate(389, 294) rotate(30.0)" class="key held keypos-57">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held side"/>
+<rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key held"/>
 </g>
 <g transform="translate(462, 91)" class="key keypos-58">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
@@ -1049,6 +1054,13 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="686" y="74" width="28" height="26" class="combo backspace"/>
 <use href="#mdi:backspace" xlink:href="#mdi:backspace" x="691" y="78" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
+<g class="combo combopos-5">
+<path d="M462,294 l-54,0" class="combo"/>
+<path d="M462,294 l54,0" class="combo"/>
+<rect rx="6" ry="6" x="448" y="281" width="28" height="26" class="combo"/>
+<a href="#layer1">
+<text x="462" y="294" class="combo tap layer-activator">layer1</text>
+</a></g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-2">
@@ -1417,6 +1429,13 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="686" y="74" width="28" height="26" class="combo backspace"/>
 <use href="#mdi:backspace" xlink:href="#mdi:backspace" x="691" y="78" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
+<g class="combo combopos-5">
+<path d="M462,294 l-54,0" class="combo"/>
+<path d="M462,294 l54,0" class="combo"/>
+<rect rx="6" ry="6" x="448" y="281" width="28" height="26" class="combo"/>
+<a href="#layer1">
+<text x="462" y="294" class="combo tap layer-activator">layer1</text>
+</a></g>
 </g>
 </g>
 <g transform="translate(40, 1165)" class="layer-3">
@@ -1765,6 +1784,13 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="686" y="74" width="28" height="26" class="combo backspace"/>
 <use href="#mdi:backspace" xlink:href="#mdi:backspace" x="691" y="78" height="18" width="18.0" class="combo backspace tap glyph mdi:backspace"/>
 </g>
+<g class="combo combopos-5">
+<path d="M462,294 l-54,0" class="combo"/>
+<path d="M462,294 l54,0" class="combo"/>
+<rect rx="6" ry="6" x="448" y="281" width="28" height="26" class="combo"/>
+<a href="#layer1">
+<text x="462" y="294" class="combo tap layer-activator">layer1</text>
+</a></g>
 </g>
 </g>
 </svg>

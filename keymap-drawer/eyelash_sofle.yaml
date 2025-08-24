@@ -60,7 +60,7 @@ layers:
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace$$', h: '2'}
   - {t: '$$mdi:keyboard-return$$', type: enter}
-  - layer1
+  - '&nav_word'
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -123,7 +123,7 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - $$mdi:mouse-left-click-outline$$
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -271,3 +271,5 @@ combos:
   k: {t: '$$mdi:keyboard-return$$', type: enter}
 - p: [21, 22]
   k: {t: '$$mdi:backspace$$', type: backspace}
+- p: [57, 59]
+  k: layer1
