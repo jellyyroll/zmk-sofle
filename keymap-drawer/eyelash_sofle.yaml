@@ -62,9 +62,9 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '&nav_word'
   - $$mdi:keyboard-space$$
-  - {t: '$$mdi:backspace$$', type: backspace}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - $$mdi:backspace-reverse-outline$$
+  - $$mdi:arrow-left-bold$$
+  - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-right-bold$$
   layer1:
   - {t: '`', s: '~'}
   - F1
@@ -277,3 +277,5 @@ combos:
   k: {t: '-', s: _}
 - p: [11, 12]
   k: {t: '=', s: +}
+- p: [61, 62, 63]
+  k: $$mdi:arrow-up-bold$$
